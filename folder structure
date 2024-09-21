@@ -1,0 +1,23 @@
+data-engineering-portfolio/
+├── Project_1/
+│   ├── README.md
+│   ├── notebooks/
+│   │   ├── data_cleaning.ipynb
+│   │   ├── data_pipeline.ipynb
+│   │   ├── data_analysis.ipynb
+│   ├── scripts/
+│   │   ├── data_cleaning.py
+│   │   ├── data_transformation.py
+│   ├── data/
+│   │   ├── raw_data.csv
+│   │   ├── transformed_data.csv
+│   ├── visuals/
+│   │   ├── pipeline_diagram.png
+│   │   ├── result_chart.png
+├── Project_2/
+│   ├── README.md
+│   ├── notebooks/
+│   ├── scripts/
+│   ├── data/
+│   ├── visuals/
+├── README.md (Main overview for the entire portfolio)
