@@ -4,7 +4,6 @@ Welcome to my portfolio of data engineering projects. This collection showcases 
 
 ## Projects
 ### 1. [Data Engineering Solutions](./Phase_1/README.md)
-Using Google Forms to collect data is a valid entry point, and Google Sheets acts as your raw data source. In data engineering, this can be considered part of the data ingestion process.
 - **Project Stage**: Data Collection, Data Modeling, Data Querying, and Initial Visualization
 - **Objective**: Built an data pipeline to be later used in analytics, transforming raw data into actionable insights.
 - **Skills**: Designing Relational Database, data structure, Data Cleaning, Data Visuzlization
