@@ -3,7 +3,7 @@
 Welcome to my portfolio of data engineering projects. This collection showcases my ability to solve real-world data problems, focusing on data pipelines, ETL processes, and analytics. Each project demonstrates how I approach data challenges, from identifying issues and making assumptions to developing solutions and refining them through trial and error.
 
 ## Projects
-### 1. [Capstone Project](./Phase_1/README.md)
+### 1. [Capstone Project](.Capstone Project.md)
 - **Project Stage**: Data Engineering solution to Build Data Platform for Retailer Data Analytics
 - **Objective**:
 1. design the OLTP database for an E-Commerce website, populate the OLTP Database with the provided data, and automate the export of the daily incremental data into the data warehouse.
